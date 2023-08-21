@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# sourcery skip: use-fstring-for-formatting
 """
 Main file
 """
